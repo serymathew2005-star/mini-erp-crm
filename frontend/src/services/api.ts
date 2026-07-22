@@ -1,5 +1,4 @@
-const API_BASE_URL =
-  import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const API_BASE_URL = "https://mini-erp-crm-backend-vsb4.onrender.com/api";
 
 export const getAuthToken = (): string | null => {
   return localStorage.getItem('erp_auth_token');
