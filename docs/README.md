@@ -1,22 +1,31 @@
-# Mini ERP + CRM Documentation
+# Mini ERP + CRM Operations Portal
 
-## Project Overview
-Mini ERP + CRM Operations Portal developed using React, Node.js, Express, Prisma ORM, and SQLite.
+## Overview
+
+## Features
 
 ## Technology Stack
-- React + Vite
-- Node.js + Express
-- Prisma ORM
-- SQLite
-- JWT Authentication
 
-## Live URLs
+## System Architecture
 
-Frontend:
-https://mini-erp-crm-mu.vercel.app
+## Project Modules
 
-Backend:
-https://mini-erp-crm-backend-vsb4.onrender.com
+## Database Design
 
-Health Check:
-https://mini-erp-crm-backend-vsb4.onrender.com/health
+## Authentication
+
+## API Documentation
+
+## Installation
+
+## Deployment
+
+## Screenshots
+
+## Folder Structure
+
+## Future Enhancements
+
+## Contributors
+
+## License
